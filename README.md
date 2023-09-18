@@ -1,3 +1,6 @@
+![image](https://github.com/kamikaizer/todolist/assets/7389985/6cf76137-e246-4acc-b3f1-6c88be2f2933)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
