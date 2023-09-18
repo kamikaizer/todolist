@@ -7,6 +7,8 @@ export const TodoWrapper = () => {
     <div className='TodoWrapper'>
         <TodoForm />
         <Todo />
+        <Todo />
+
     </div>
   )
 }

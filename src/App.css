@@ -76,7 +76,12 @@ h1 {
 
 .fa-trash {
   margin-left: 0.75rem;
+  margin-right: 0.75rem;
+
 }
+
+
+
 
 .completed {
   color: #c5aeff;
