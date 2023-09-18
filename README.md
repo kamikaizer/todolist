@@ -1,5 +1,5 @@
 ![image](https://github.com/kamikaizer/todolist/assets/7389985/6cf76137-e246-4acc-b3f1-6c88be2f2933)
-
+Figma: https://www.figma.com/file/P1Wbu9iqkxd2GqEsM6QH6A/Todolist-Platzi?type=design&node-id=0%3A1&mode=design&t=qEHJOGZe6lAv9mU1-1
 
 # Getting Started with Create React App
 
