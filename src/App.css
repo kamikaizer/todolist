@@ -12,6 +12,9 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
+  padding-top: 50px;
+  background-image: url(https://img.freepik.com/vector-gratis/fondo-abstracto-azul-formas-geometricas_1035-17545.jpg?w=1380&t=st=1695002220~exp=1695002820~hmac=cc99ba39bf49cedd30fde3f0b36edf603e595354f82b02509bdd9971e0cb7008);
+
 }
 
 .App {
@@ -19,16 +22,17 @@ body {
 }
 
 h1 {
-  color: #fff;
+  color: #8b8b8b;
   margin-bottom: 0.5rem;
-  font-size: 1.75rem;
+  font-size: 25pxrem;
 }
 
 .TodoWrapper {
   background: #1A1A40;
-  margin-top: 5rem;
+  margin-top: 25px;
   padding: 2rem;
   border-radius: 5px;
+  opacity: 80%;
 }
 
 .TodoForm {
@@ -39,7 +43,7 @@ h1 {
 .todo-input {
   outline: none;
   background: none;
-  border: 1px solid #8758ff;
+  border: 1px solid #5863ff;
   padding: 0.5rem 1rem;
   margin-top: 1rem;
   margin-bottom: 2rem;
@@ -52,7 +56,7 @@ h1 {
 }
 
 .todo-btn {
-  background: #8758ff;
+  background: #5869ff;
   color: #fff;
   border: none;
   padding: 0.55rem;
